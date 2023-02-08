@@ -1,0 +1,81 @@
+.img1 {float: right; height: 180px;}
+
+.header {
+    padding: 10px;
+    height: 160px;
+    width:auto;
+    text-align: center;
+    background: #5b6d6a;
+    color: rgb(4, 3, 3);
+    font-size: 20px;
+  }
+
+#circulo {
+    height: 160px;
+    width: 160px;
+    display: table-cell;
+    text-align: center;
+    font: size 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    vertical-align: middle;
+    border-radius: 50%;
+    background: darkred;
+  }
+
+
+h2 { 
+    height: 40px;
+    left: 150px;
+    position: relative;
+    top: -130px;
+    width: 200px;
+    font-size: 90%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+ nav {
+    height: auto;
+    left: 50px;
+    width: auto;
+    padding: 5px;
+    background-color: darkred;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ }
+
+
+.readMore_btn {
+  background-color: #5b6d6a;
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  cursor: pointer;
+}
+.my-btn1 {
+  background-color: #5b6d6a;
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  cursor:pointer;
+}
+.my-btn2 {
+  background-color: #5b6d6a;
+  font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+
+
+ ul {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ 
+
+ li, ul {
+  font-size: 20px;
+ }
+ .hide {
+  display: none;
+ }
+
+ .show {
+  display: block;
+ }
